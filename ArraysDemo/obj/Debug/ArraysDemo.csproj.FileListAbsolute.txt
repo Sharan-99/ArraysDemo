@@ -1,0 +1,7 @@
+C:\Users\2091199\source\repos\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe.config
+C:\Users\2091199\source\repos\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe
+C:\Users\2091199\source\repos\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.pdb
+C:\Users\2091199\source\repos\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.exe
+C:\Users\2091199\source\repos\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.pdb
